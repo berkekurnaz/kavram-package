@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+
+<div class="text-center">
+    <h3>About</h3>
+    <hr />
+    <p>
+        @if (TempData["variableName"] != null)
+        {
+            <span>Variable : @TempData["variableName"]</span>
+        }
+    </p>
+    <hr />
+    <p>
+        Kavram is a simple state management package for .net core apps. You can store your data in one place and use it wherever you want with Kavram. Kavram uses a singleton design pattern and it is open source.
+    </p>
+</div>

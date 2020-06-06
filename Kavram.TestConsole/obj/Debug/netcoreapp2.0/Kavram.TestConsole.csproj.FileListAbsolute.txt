@@ -1,0 +1,14 @@
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\bin\Debug\netcoreapp2.0\Kavram.TestConsole.deps.json
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\bin\Debug\netcoreapp2.0\Kavram.TestConsole.runtimeconfig.json
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\bin\Debug\netcoreapp2.0\Kavram.TestConsole.runtimeconfig.dev.json
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\bin\Debug\netcoreapp2.0\Kavram.TestConsole.dll
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\bin\Debug\netcoreapp2.0\Kavram.TestConsole.pdb
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\bin\Debug\netcoreapp2.0\Kavram.App.dll
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\bin\Debug\netcoreapp2.0\Kavram.App.pdb
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\obj\Debug\netcoreapp2.0\Kavram.TestConsole.csprojAssemblyReference.cache
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\obj\Debug\netcoreapp2.0\Kavram.TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\obj\Debug\netcoreapp2.0\Kavram.TestConsole.AssemblyInfoInputs.cache
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\obj\Debug\netcoreapp2.0\Kavram.TestConsole.AssemblyInfo.cs
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\obj\Debug\netcoreapp2.0\Kavram.TestConsole.csproj.CopyComplete
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\obj\Debug\netcoreapp2.0\Kavram.TestConsole.dll
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.TestConsole\obj\Debug\netcoreapp2.0\Kavram.TestConsole.pdb

@@ -1,0 +1,9 @@
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.App\bin\Debug\netcoreapp2.0\Kavram.App.deps.json
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.App\bin\Debug\netcoreapp2.0\Kavram.App.dll
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.App\bin\Debug\netcoreapp2.0\Kavram.App.pdb
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.App\obj\Debug\netcoreapp2.0\Kavram.App.csprojAssemblyReference.cache
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.App\obj\Debug\netcoreapp2.0\Kavram.App.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.App\obj\Debug\netcoreapp2.0\Kavram.App.AssemblyInfoInputs.cache
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.App\obj\Debug\netcoreapp2.0\Kavram.App.AssemblyInfo.cs
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.App\obj\Debug\netcoreapp2.0\Kavram.App.dll
+C:\Users\Berke\source\repos\Kavram_Package\Kavram.App\obj\Debug\netcoreapp2.0\Kavram.App.pdb

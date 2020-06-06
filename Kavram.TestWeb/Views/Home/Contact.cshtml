@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+
+@using Kavram.App;
+@{
+    var kavram = KavramObject.Create();
+    var name = "";
+    if (kavram.IsKeyContains("name"))
+    {
+        name = kavram.Get("name").ToString();
+    }
+    else
+    {
+        name = "I didn't find";
+    }
+}
+
+<div class="text-center">
+    <h3>Contact</h3>
+    <hr />
+    <p>
+        Variable Name : @name
+    </p>
+    <p>
+        <b>Mail : </b> contact@berkekurnaz.com
+    </p>
+</div>
